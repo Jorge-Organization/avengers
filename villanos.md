@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Joker
+* Capitán America
